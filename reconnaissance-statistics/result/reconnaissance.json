@@ -354,36 +354,36 @@
     },
     "seventh_section":{
         "first_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "γ",
+            "miss": "α"     
         },
         "second_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "α",
+            "miss": "β"     
         },
         "third_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "β",
+            "miss": "γ"     
         },
         "fourth_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "β",
+            "miss": "γ"     
         },
         "fifth_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "α",
+            "miss": "γ"     
         },
         "sixth_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "α",
+            "miss": "β"     
         },
         "seventh_day":{
-            "hit": "Hotel",
-            "miss": "Romeo"     
+            "hit": "β",
+            "miss": "γ"     
         },
         "eighth_day":{
             "hit": "Hotel",
-            "miss": "Romeo"     
+            "miss": "Juliet"     
         },
         "ninth_day":{
             "hit": "Hotel",
@@ -391,15 +391,15 @@
         },
         "tenth_day":{
             "hit": "Hotel",
-            "miss": "Romeo"     
+            "miss": "Juliet"     
         },
         "eleventh_day":{
             "hit": "Hotel",
-            "miss": "Romeo"     
+            "miss": "Hotel"     
         },
         "twelfth_day":{
             "hit": "Hotel",
-            "miss": "Romeo"     
+            "miss": ""     
         },
         "thirteenth_day":{
             "hit": "Hotel",
